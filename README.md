@@ -1,4 +1,4 @@
-<img width="154" alt="Step Processing" src="...\Gambar\Readme">
+![Readme](https://user-images.githubusercontent.com/48684577/179172222-42aa8023-2c2b-4338-82bb-2e325a73e5ea.png)
 # Clustering with K-Medoids
 <table>
 <tr>
@@ -37,7 +37,7 @@ Penjelasan Detail :
 
 ## Contact
 
-Linkedin : https://www.linkedin.com/in/ridhaginanjar/
-Github : https://github.com/ridhaginanjar
-Email : ridhaginanjar7@gmail.com
+- Linkedin : https://www.linkedin.com/in/ridhaginanjar/
+- Github : https://github.com/ridhaginanjar
+- Email : ridhaginanjar7@gmail.com
 
